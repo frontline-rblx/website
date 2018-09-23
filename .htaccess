@@ -1,0 +1,16 @@
+<!doctype HTML>
+<html>
+<head>
+  <title>FrontLine Site</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+   <div class = "Title">
+     <h1 class = "Txt">FRONTLINE WEBSITE - WIP</h1>
+     <hr style = "color: white;">
+     <a href="https://frontline.cf/">Home</a> | <a href="discord.html">Discord</a> | <a href="about.html">About</a> | <a href="account.html">Accounts</a>
+   </div>
+   <h2 class = "Txt">Oops, looks like you are lost and found a missing page. Feel free to go back<a href="https://frontline.cf/">home</a>.</h2>
+ </body>
+</html>
